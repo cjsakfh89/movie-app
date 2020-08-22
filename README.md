@@ -78,3 +78,6 @@ Component has to have uppercase.
 
 ### 2.2 Dynamic Component Generation
 
+### 2.3 map Recap
+
+Every React component has to have unique key.
