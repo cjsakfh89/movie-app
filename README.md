@@ -55,3 +55,15 @@ Automatically updated in browser by saving files.
 Substitute App.js through index.js between <div id="root"></div> of index.html file.
 
 App content (between <div id="root"></div>) is not visible when trying to view the index.html source on the client side.
+
+### 2.0 Creating your first React Component
+
+Component: A function Returns HTML code.
+
+jsx: Only works on React.
+
+Every .js file using React should declare "import React from 'react';".
+
+React application can render only one component.
+
+React can have compononts in a hierarchical structure.
