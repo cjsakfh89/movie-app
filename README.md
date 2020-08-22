@@ -67,3 +67,11 @@ Every .js file using React should declare "import React from 'react';".
 React application can render only one component.
 
 React can have compononts in a hierarchical structure.
+
+### 2.1 Reuseable Component with JSX + Props
+
+Question: How do he rearrange indents for Food tag? (4:16)
+
+Question: How do he select block vertically? (7:52)
+
+Component has to have uppercase.
