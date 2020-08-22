@@ -30,8 +30,6 @@ Tip: vscode terminal; Ctrl+Shift+`
 
 Run; npm start
 
-Remove package-lock.json(Don't need)
-
 ### 1.1 Creating a Github Repository
 
 Create github repository <movie-app> <React JS Fundamentals Course (2019 Update!)>
@@ -72,6 +70,8 @@ React can have compononts in a hierarchical structure.
 
 Question: How do he rearrange indents for Food tag? (4:16)
 
+Answer: https://www.youtube.com/watch?v=ya78lQi5vVI
+
 Question: How do he select block vertically? (7:52)
 
 Component has to have uppercase.
@@ -81,3 +81,11 @@ Component has to have uppercase.
 ### 2.3 map Recap
 
 Every React component has to have unique key.
+
+### 2.4 Protection with PropTypes
+
+Tip: vscode Format Document shortcut: Shift+Alt+F
+
+Install prop-types; npm i prop-types
+
+See; https://ko.reactjs.org/docs/typechecking-with-proptypes.html
