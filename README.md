@@ -75,3 +75,6 @@ Question: How do he rearrange indents for Food tag? (4:16)
 Question: How do he select block vertically? (7:52)
 
 Component has to have uppercase.
+
+### 2.2 Dynamic Component Generation
+
