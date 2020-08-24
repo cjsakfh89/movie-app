@@ -100,3 +100,5 @@ setState() 함수 재정의도 가능하다; current => ({ count: current.count 
 
 ### 3.1 All you need to know about State
 
+### 3.2 Component Life Cycle
+
