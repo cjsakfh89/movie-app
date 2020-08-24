@@ -142,3 +142,6 @@ PropTypes array; genres: PropTypes.arrayOf(PropTypes.string).isRequired
 
 Need to learn later.
 
+### 4.5 Cutting the summary
+
+Tip javascript function; length(), slice()
