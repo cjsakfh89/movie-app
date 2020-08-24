@@ -137,3 +137,8 @@ I need to learn css class.
 jsx 에서는 class 대신 className을 써야한다.
 
 PropTypes array; genres: PropTypes.arrayOf(PropTypes.string).isRequired
+
+### 4.4 Styles Timelapse
+
+Need to learn later.
+
