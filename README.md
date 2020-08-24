@@ -128,3 +128,5 @@ If do not need to use 'state', you do not need to use class.
 
 Question; How can I input multiple types? 09:08
 
+### 4.2 Styling the Movies
+
