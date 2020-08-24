@@ -102,3 +102,7 @@ setState() 함수 재정의도 가능하다; current => ({ count: current.count 
 
 ### 3.2 Component Life Cycle
 
+### 3.3 Planning the Movie Component
+
+setTimeout(() => {this.setState({isLoading: false});}, 6000);
+
