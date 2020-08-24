@@ -130,3 +130,10 @@ Question; How can I input multiple types? 09:08
 
 ### 4.2 Styling the Movies
 
+I need to learn css class.
+
+### 4.3 Adding Genres
+
+jsx 에서는 class 대신 className을 써야한다.
+
+PropTypes array; genres: PropTypes.arrayOf(PropTypes.string).isRequired
