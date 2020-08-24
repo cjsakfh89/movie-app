@@ -106,3 +106,14 @@ setState() 함수 재정의도 가능하다; current => ({ count: current.count 
 
 setTimeout(() => {this.setState({isLoading: false});}, 6000);
 
+### 4.0 Fetching Movies from API
+
+Install axios; npm install axios
+
+Using this API; https://yts.mx/api
+
+Using this endpoint; https://yts.mx/api/v2/list_movies.json -> https://yts-proxy.now.sh/list_movies.json
+
+Install Chrome extension json view; https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=ko
+
+Question: 언제는 변수 대입에 :이고 언제는 = 인가?
