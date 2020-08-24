@@ -89,3 +89,11 @@ Tip: vscode Format Document shortcut: Shift+Alt+F
 Install prop-types; npm i prop-types
 
 See; https://ko.reactjs.org/docs/typechecking-with-proptypes.html
+
+### 3.0 Class Component and State
+
+Function이 아닌 Class로도 Application 구현이 가능하다.
+
+Tip; javascript function add = () => {}
+
+setState() 함수 재정의도 가능하다; current => ({ count: current.count + 1})
