@@ -117,3 +117,14 @@ Using this endpoint; https://yts.mx/api/v2/list_movies.json -> https://yts-proxy
 Install Chrome extension json view; https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=ko
 
 Question: 언제는 변수 대입에 :이고 언제는 = 인가?
+
+### 4.1 Rendering the Movies
+
+javascipt ES6; const { data: { data: {movies}}} = await axios.get("https://yts-proxy.now.sh/list_movies.json");
+
+It also works; this.setState({movies: movies}); => this.setState({movies});
+
+If do not need to use 'state', you do not need to use class.
+
+Question; How can I input multiple types? 09:08
+
