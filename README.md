@@ -97,3 +97,6 @@ Function이 아닌 Class로도 Application 구현이 가능하다.
 Tip; javascript function add = () => {}
 
 setState() 함수 재정의도 가능하다; current => ({ count: current.count + 1})
+
+### 3.1 All you need to know about State
+
