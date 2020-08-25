@@ -160,3 +160,11 @@ Github가 제공하는 실제 업로드 가능한 기능
 
 ### 5.1 Are we done?
 
+### 6.0 Getting Ready for the Router
+
+Install react-router-dom; npm install react-router-dom
+
+Page의 상관관계를 directory에 따라 지정해준다.
+
+### 6.1 Building the Router
+
