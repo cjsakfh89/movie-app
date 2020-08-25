@@ -184,3 +184,7 @@ HashRouter는 url 뒤에 /#/ 이게 붙지만 BrowserRouter는 붙지 않는다.
 
 전송한 state는 props.location.state로 들어옴
 
+### 6.4 Redirecting
+
+History를 이용해 state가 없는경우 redirection이 가능하다; history.push("/");
+
