@@ -179,3 +179,8 @@ exact 키워드로 정확히 같아야 출력하게 할 수 있다.
 Navigation은 Router 밖에서 쓸 수 없다.
 
 HashRouter는 url 뒤에 /#/ 이게 붙지만 BrowserRouter는 붙지 않는다. (장단점이 있음)
+
+### 6.3 Sharing Props Between Routes
+
+전송한 state는 props.location.state로 들어옴
+
