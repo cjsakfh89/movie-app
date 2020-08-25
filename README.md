@@ -145,3 +145,16 @@ Need to learn later.
 ### 4.5 Cutting the summary
 
 Tip javascript function; length(), slice()
+
+### 5.0 Deploying to Github Pages
+
+Install gh-pages; npm install gh-pages
+
+Add homepage for gh-pages; https://cjsakfh89.github.io/movie-app/
+
+Run build; npm run build
+
+Run Github pages; gh-pages -d build
+
+Github가 제공하는 실제 업로드 가능한 기능
+
