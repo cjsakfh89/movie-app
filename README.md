@@ -168,3 +168,9 @@ Page의 상관관계를 directory에 따라 지정해준다.
 
 ### 6.1 Building the Router
 
+Route는 계층적으로 선언 가능하다.
+
+기본적으로 지정된 Path까지 일치하면 렌더링한다.
+
+exact 키워드로 정확히 같아야 출력하게 할 수 있다.
+
